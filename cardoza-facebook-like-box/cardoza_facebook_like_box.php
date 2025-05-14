@@ -3,7 +3,7 @@
   Plugin Name: Easy Social Like Box - Popup - Sidebar Widget
   Plugin URI: https://johnnash.info/facebook-plugin/
   Description: Facebook Like Box enables you to display the facebook page likes in your website.
-  Version: 4.7
+  Version: 4.8
   Author: Vinoj Cardoza
   Author URI: https://johnnash.info/facebook-plugin/
   License: GPL2

@@ -1,5 +1,5 @@
 === Easy Social Like Box - Popup - Sidebar Widget ===
-Contributors: vinoj.cardozaTags: facebook like, like button, facebook like box, Facebook likebox, fb like boxRequires at least: 4.0Tested up to: 6.5.3Stable tag: trunkLicense: GPLv2 or later
+Contributors: vinoj.cardozaTags: facebook like, like button, facebook like box, Facebook likebox, fb like boxRequires PHP: 7.2Requires at least: 5.0  Tested up to: 6.8Stable tag: 4.8License: GPLv2 or later
 WP Facebook Like Box Plugin enables you to display the facebook page likes in sidebar widget or popup. Display like button for the posts.
 == Description ==
 
